@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "脳内革命ガール2016 ver.",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-25T16:15:43.063320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "脳内革命ガール2016 ver.",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/01_脳内革命ガール2016_ver._Maretu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "脳内革命ガール2016 ver.",
+      "artist": "maretu feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_脳内革命ガール2016_ver._maretu_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "脳内革命ガール2016 ver.",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/03_脳内革命ガール2016_ver._MARETU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "脳内革命ガール2016 ver. - Brain Revolution Girl 2016 ver.",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/04_脳内革命ガール2016_ver._-_Brain_Revolution_Girl_2016_ver._MARETU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脳内革命ガール2016 ver.",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_脳内革命ガール2016_ver._MARETU.txt"
+    }
+  ]
+}
